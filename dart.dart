@@ -53,8 +53,6 @@ getLongestPath(List<Node> nodes, int nodeID, List<Bool> visited){
   return max;
 }
 
-
-
 main() {
   readPlacesAndFindPath();
 }
